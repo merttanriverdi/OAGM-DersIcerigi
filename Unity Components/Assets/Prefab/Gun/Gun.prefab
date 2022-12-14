@@ -45,7 +45,6 @@ GameObject:
   - component: {fileID: 90657117059464804}
   - component: {fileID: 6152348557481807151}
   - component: {fileID: 6589256485057839747}
-  - component: {fileID: 1234039038485958466}
   m_Layer: 0
   m_Name: GunUp
   m_TagString: Untagged
@@ -118,19 +117,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &1234039038485958466
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4569667801975859475}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &4644793116034222532
 GameObject:
   m_ObjectHideFlags: 0
@@ -173,7 +159,6 @@ GameObject:
   - component: {fileID: 2306887891635922812}
   - component: {fileID: 6537286766294240371}
   - component: {fileID: 7191155762033597657}
-  - component: {fileID: 8603592076655598888}
   m_Layer: 0
   m_Name: GunDown
   m_TagString: Untagged
@@ -246,16 +231,3 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8603592076655598888
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5935489694506693360}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
