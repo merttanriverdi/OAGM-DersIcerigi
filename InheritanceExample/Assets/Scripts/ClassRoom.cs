@@ -12,7 +12,7 @@ public class ClassRoom : MonoBehaviour
 {
     public List<Student> Students;
     public GameObject studentPrefab;
-    private float _xOffset = 4f;
+    private float _xOffset = 3f;
 
     private void Start()
     {
